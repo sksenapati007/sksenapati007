@@ -1,8 +1,8 @@
 ### Hi there 👋 Welcome to My Github Folio
 
 
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning React JS
+- 🔭 I’m currently working on MEAN/MERN Stack
+- 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on Web App using MEAN/MERN
 - 🤔 I’m looking for help with Node JS
 
