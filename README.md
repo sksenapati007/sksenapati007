@@ -9,10 +9,10 @@
 
 ### Spotify Playing 🎧
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=jzqwbe3y9j89bzsmmcocxjk1c&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=jzqwbe3y9j89bzsmmcocxjk1c&cover_image=true&theme=novatorem)]]
-
 <!-- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jzqwbe3y9j89bzsmmcocxjk1c&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=jzqwbe3y9j89bzsmmcocxjk1c&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=jzqwbe3y9j89bzsmmcocxjk1c&cover_image=true&theme=novatorem)]] -->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jzqwbe3y9j89bzsmmcocxjk1c&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jzqwbe3y9j89bzsmmcocxjk1c&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile) -->
 <br />
 
