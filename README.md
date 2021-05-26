@@ -43,3 +43,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksenapati007&theme=synthwave">
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sksenapati007)](https://github.com/sksenapati007/github-profile-trophy)
