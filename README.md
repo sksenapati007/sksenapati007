@@ -42,11 +42,28 @@
 <br />
 <summary> 😇 <b> My Github Stats</b>: </summary>
 <br>
-<p align="center">
+
+
+<!-- <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=sksenapati007&layout=compact&theme=dracula&count_private=true&langs_count=10" /> -->
+
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sksenapati007&show_icons=true&theme=synthwave&line_height=27">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksenapati007&theme=synthwave">
-</p>
+</p> -->
+
+<div align = "center">
+  <img src="meditate-mindfulness.gif" width="200px"  />
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sksenapati007&theme=dracula)
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sksenapati007&theme=dracula" />  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sksenapati007&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sksenapati007&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sksenapati007&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sksenapati007&theme=dracula)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sksenapati007)](https://github.com/sksenapati007/github-profile-trophy)  
+  
+</div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sksenapati007)](https://github.com/sksenapati007/github-profile-trophy)
+
