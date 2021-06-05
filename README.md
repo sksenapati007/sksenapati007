@@ -1,4 +1,4 @@
-[github_image](github_image.PNG)
+![github_image](github_image.png)
 
 # Hi there 👋 Welcome to My Github Folio
 
