@@ -1,6 +1,6 @@
 ![github_image](github_image.png)
 
-# Hi there 👋 Welcome to My Github Folio
+## Hi there 👋 Welcome to My Github Folio
 
 
 - 🔭 I’m currently working on MEAN/MERN Stack
