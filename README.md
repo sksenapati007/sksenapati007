@@ -6,10 +6,16 @@
 - 🔭 I’m MEAN/MERN Stack developer
 - 🌱 I’m currently learning Flutter & Python
 - 👯 I’m looking to collaborate on PWA using MEAN/MERN
-- ✍️ Feel free to reach out <br/>
- <a href = "mailto:shubhendukumars09@gmail.com?subject = Feedback&body = Message" target='_blank'><img src='https://img.shields.io/badge/Gmail %20-%23FF0000?style=for-the-badge&logo=Gmail&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a> <a href='https://www.linkedin.com/in/shubhendukumars/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn%20-%230B65C3?style=for-the-badge&logo=linkedin&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
 
+<details>
+ <summary> ✍️ Feel free to reach out at </summary>
+ <br/>
  
+ [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+ 
+ <a href = "mailto:shubhendukumars09@gmail.com?subject = Feedback&body = Message" target='_blank'><img src='https://img.shields.io/badge/Gmail %20-%23FF0000?style=for-the-badge&logo=Gmail&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a> <a href='https://www.linkedin.com/in/shubhendukumars/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn%20-%230B65C3?style=for-the-badge&logo=linkedin&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a> <a href='https://www.twitter.com/in/shubhendukumars/' target='_blank'><img src='https://img.shields.io/badge/Twitter%20-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
+</details>
+
 
 ### Spotify Playing 🎧
 
@@ -22,43 +28,45 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<div align="center" style="display: flex" >
+<img  alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0B65C3.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img  alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+<img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img  alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img  alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+<img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img  alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+<img  alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img  alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img  alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<img  alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
+<img  alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img  alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img  alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
+<div align = "center">
+ 
+ <img src="meditate-mindfulness.gif" width="200px"  />
+ 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sksenapati007&theme=dracula)
+ 
+</div>
+
+<details>
 <summary> 😇 <b> My Github Stats</b>: </summary>
 <br>
-
-
-<!-- <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=sksenapati007&layout=compact&theme=dracula&count_private=true&langs_count=10" /> -->
-
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sksenapati007&show_icons=true&theme=synthwave&line_height=27">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksenapati007&theme=synthwave">
-</p> -->
-
 <div align = "center">
-  <img src="meditate-mindfulness.gif" width="200px"  />
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sksenapati007&theme=dracula)
+
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sksenapati007&theme=dracula" />  
+ 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sksenapati007&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sksenapati007&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sksenapati007&theme=dracula)
@@ -66,6 +74,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sksenapati007)](https://github.com/sksenapati007/github-profile-trophy)  
   
 </div>
+</details>
 
 
 
