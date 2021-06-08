@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m MEAN/MERN Stack developer
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Flutter & Python
 - 👯 I’m looking to collaborate on PWA using MEAN/MERN
 - ✍️ Feel free to reach out <br/>
  <a href = "mailto:shubhendukumars09@gmail.com?subject = Feedback&body = Message" target='_blank'><img src='https://img.shields.io/badge/Gmail %20-%23FF0000?style=for-the-badge&logo=Gmail&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a> <a href='https://www.linkedin.com/in/shubhendukumars/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn%20-%230B65C3?style=for-the-badge&logo=linkedin&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
