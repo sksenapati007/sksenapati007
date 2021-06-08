@@ -13,7 +13,7 @@
  
  [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
  
- <a href = "mailto:shubhendukumars09@gmail.com?subject = Feedback&body = Message" target='_blank'><img src='https://img.shields.io/badge/Gmail %20-%23FF0000?style=for-the-badge&logo=Gmail&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a> <a href='https://www.linkedin.com/in/shubhendukumars/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn%20-%230B65C3?style=for-the-badge&logo=linkedin&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a> <a href='https://www.twitter.com/in/shubhendukumars/' target='_blank'><img src='https://img.shields.io/badge/Twitter%20-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
+ <a href = "mailto:shubhendukumars09@gmail.com?subject = Feedback&body = Message" target='_blank'><img src='https://img.shields.io/badge/Gmail %20-%23FF0000?style=for-the-badge&logo=Gmail&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a> <a href='https://www.linkedin.com/in/shubhendukumars/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn%20-%230B65C3?style=for-the-badge&logo=linkedin&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a> <a href='https://twitter.com/shubhendukumars' target='_blank'><img src='https://img.shields.io/badge/Twitter%20-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white' border='0' alt='0-K2-WLMTEx-Lyida7-OR'/></a>
 </details>
 
 
