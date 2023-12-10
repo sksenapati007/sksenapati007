@@ -6,10 +6,13 @@
 
 ## Hi there 👋 Welcome to My Github Folio
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&random=false&width=435&lines=A+Volunteer;A+Freelancer;A+Software+Developer;A+Designer;A+Full+Stack+Developer" alt="Typing SVG" />
+
 
 - 🔭 I’m MEAN/MERN Stack developer
 - 🌱 I’m currently learning Flutter & Python
 - 👯 I’m looking to collaborate on PWA using MEAN/MERN
+
 
 <details>
  <summary> ✍️ Feel free to reach out at </summary>
