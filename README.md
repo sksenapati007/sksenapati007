@@ -41,6 +41,7 @@
 <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img  alt="NestJS" src="https://img.shields.io/badge/nest.js-%23DD0032.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img  alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img  alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img  alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -85,4 +86,12 @@
 </details>
 
 
+## My Workplace Contributions
+
+Currently employed at Cakewalk
+
+[![Cakewalk Contributions](https://img.shields.io/badge/Cakewalk-Contributions-red)](https://github.com/shubhenducw)
+<br>
+
+<img width="1226" alt="image" src="https://github.com/sksenapati007/sksenapati007/assets/12647032/57f093b3-2727-4da1-9692-0ccb9396ba6a">
 
