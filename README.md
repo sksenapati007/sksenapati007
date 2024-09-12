@@ -52,7 +52,7 @@
 <img  alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img  alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img  alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img  alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<img  alt="Figma" src="https://img.shields.io/badge/figma-%2300000.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img  alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
 <img  alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -61,6 +61,7 @@
 <img  alt="Git" src ="https://img.shields.io/badge/git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img  alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img  alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img  alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23F24E1E.svg?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </div>
 
 
