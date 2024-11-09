@@ -29,7 +29,8 @@
 <!-- 
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=jzqwbe3y9j89bzsmmcocxjk1c&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=jzqwbe3y9j89bzsmmcocxjk1c&cover_image=true&theme=novatorem)]] -->
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jzqwbe3y9j89bzsmmcocxjk1c&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jzqwbe3y9j89bzsmmcocxjk1c&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jzqwbe3y9j89bzsmmcocxjk1c&cover_image=true&theme=novatorem&show_offline=false&background_color=5e0f08&interchange=true&bar_color=c23400&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=jzqwbe3y9j89bzsmmcocxjk1c&redirect=true)
+
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jzqwbe3y9j89bzsmmcocxjk1c&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile) -->
 <br />
 
